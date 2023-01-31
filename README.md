@@ -1,5 +1,5 @@
 # Mooflix
-
+Mooflix is a platform project on Weekly Mobile 2022/2023, an application to display popular and best films based on TMDB (The Movie Database)
 ## React Api
 1. [Movie](https://www.themoviedb.org)
 ## Reference
